@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/IoghiStudio/background-generator/issues"
   },
-  "homepage": "https://github.com/IoghiStudio/background-generator#readme"
+  "homepage": "https://github.com/IoghiStudio/background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
